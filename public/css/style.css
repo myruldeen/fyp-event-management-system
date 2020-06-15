@@ -1,0 +1,10 @@
+.sampleContent {
+  padding: 4em 0 4em 0;
+}
+
+.banner {
+  background: url("https://daxueconsulting.com/wp-content/uploads/2019/03/daxueconsulting_5Gchina.jpg") center center / cover no-repeat;
+  /* background: rgba(200,200,200,0.8);*/
+  margin: 0;
+  padding: 4em;
+}
